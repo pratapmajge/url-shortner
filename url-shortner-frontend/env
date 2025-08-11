@@ -1,1 +1,3 @@
-VITE_API_BASE=http://localhost:5000
+<!-- VITE_API_BASE=http://localhost:5000
+VITE_API_BASE_URL:https://url-shortner-4jl2.onrender.com -->
+VITE_API_BASE=https://url-shortner-4jl2.onrender.com
